@@ -1,0 +1,1 @@
+This repository is used to maintain auto-generated Terraform modules for provisioning AWS resources. It provides a centralized place to store and version control the Terraform code that defines the infrastructure components in AWS. By using this repository, infrastructure provisioning can be automated and managed in a consistent and repeatable way across different environments.
